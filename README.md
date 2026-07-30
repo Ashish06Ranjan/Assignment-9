@@ -114,7 +114,3 @@ Assignment-9/
 ├── Assignment-9.ipynb
 ├── README.md
 └── PetImages/
-
-**Registration Number:** Your Registration Number
-
-**Course:** Artificial Intelligence and Machine Learning
