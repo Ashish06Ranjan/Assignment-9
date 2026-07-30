@@ -113,4 +113,3 @@ Assignment-9/
 │
 ├── Assignment-9.ipynb
 ├── README.md
-└── PetImages/
